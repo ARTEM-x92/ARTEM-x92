@@ -2,7 +2,7 @@
 
 ## User Info
 
-Hello, Welcome To My GitHub Page, IDK Why You Viewing My GitHub Page "¯\_(ツ)_/¯", But I Can Tell You Some Info About Me
+Hello, Welcome To My GitHub Page, IDK Why You Viewing My GitHub Page ¯\_(ツ)_/¯, But I Can Tell You Some Info About Me
 
 My Public Name Is "Artem Tarasov" and UserName Is "ARTEM_x92" / "ARTEM-x92" / "ARTEMx92"
 
