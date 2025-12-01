@@ -6,7 +6,7 @@ Hello, Welcome To My GitHub Page, IDK Why You Viewing My GitHub Page ¯\_(ツ)_/
 
 My Public Name Is "Artem Tarasov" and UserName Is "ARTEM_x92" / "ARTEM-x92" / "ARTEMx92"
 
-My Public BirthYaer Is "1992"
+My Public BirthYear Is "1992"
 
 I'm a Free, Independent, Non-Governmental Developer From Antarctica
 
