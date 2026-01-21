@@ -42,3 +42,4 @@ A0 {
     0x0100: I Will Try To Make a Minimal Information Or GUI So That Help All Users Can Understand How To Use It
 
 _(0x000100) I Developed a Beta ASM Bluff Bin To Be Close Access Code With Any UnAuthorized Operations (Reverse Engineering / Disassembly Or Other UnAuthorized Access Attempts) (ASM_Bluff_Beta.bin Works Only With x64 Code, ARM x64 Does Not Work Correctly With Many Types Of Code.) This Bin Will Never Be Open Source And Will Only Run On Specific HW And OS (Custom GNU_Linux)
+}
